@@ -1,0 +1,10 @@
+Switch Between Tabs
+	Ctrl + w w
+
+Copy line
+	yy
+
+Paste line
+	p
+
+
